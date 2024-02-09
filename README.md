@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### Computer Science Engineer
 <!--
 **ivanfolg/ivanfolg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Find Me Here
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Iván_Folgueira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ivan-folgueira)
+</br>
+[![Bluesky](https://img.shields.io/badge/Bluesky-Iván_Folgueira-0077B5?style=for-the-badge&logo=bluesky&logoColor=white&labelColor=101010)](https://www.bsky.app/profile/ivanfolg.bsky.social)
